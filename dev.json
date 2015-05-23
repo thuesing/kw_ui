@@ -1,0 +1,10 @@
+{
+"query" : "match pfad=(za:Ziel)-->(m:Massnahme)-->(v:Verhalten)-[vu:Kante]->(u:Ursache)-->(p:Problem)-->(ze:Ziel) 
+WHERE ({PARAM1} IN za.sektor) 
+AND ({PARAM2} IN ze.sektor) 
+RETURN za.name AS zielA, m.name AS massnahme, v.name AS verhalten
+, u.name AS ursache, p.name AS problem, ze.name AS zielB 
+, vu.value AS value, vu.descr AS descr;",
+"params" : { "PARAM1" : "Chemie", "PARAM2" : "Chemie"} 
+} 
+

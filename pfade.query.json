@@ -1,0 +1,15 @@
+{
+"query" : "match pfad=(za:Ziel)-->(m:Massnahme)-->(v:Verhalten)-[vu:Kante]->(u:Ursache)-->(p:Problem)-->(ze:Ziel) 
+WHERE (za.name= {PARAM1} OR {PARAM1} IN za.schutzgut OR {PARAM1} IN za.sektor) 
+AND (ze.name= {PARAM2} OR {PARAM2} IN ze.schutzgut OR {PARAM2} IN ze.sektor) 
+AND vu.value=1 
+RETURN za.name AS zielA, m.name AS massnahme, v.name AS verhalten
+, u.name AS ursache, p.name AS problem, ze.name AS zielB 
+, vu.value AS value, vu.descr AS descr;",
+"params" : { "PARAM1" : "Chemie", "PARAM2" : "Chemie"} 
+} 
+
+// bei einer wildcardabfrage wie oben, muss auf positiv eingeschraenk werden
+// da die results sonst mehrere 100 Mb gross sind und im Minutenbereich liegen
+
+

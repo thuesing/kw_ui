@@ -1,0 +1,10 @@
+{
+"query" : "match pfad=(za:Ziel)-->(m:Massnahme)-->(v:Verhalten)-[vu:Kante]->(u:Ursache)-->(p:Problem)-->(ze:Ziel) 
+WHERE 'Rohstoffe' IN za.schutzgut AND 'Biodiversität' IN ze.schutzgut 
+AND NONE (x IN nodes(pfad) WHERE x:Prognose) 
+RETURN za.name AS zielA, m.name AS massnahme, v.name AS verhalten
+, u.name AS ursache, p.name AS problem, ze.name AS zielB 
+, vu.value AS value, vu.descr AS descr;"
+}
+
+

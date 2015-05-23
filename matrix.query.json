@@ -1,0 +1,21 @@
+{
+"query" : "match (za:Ziel), 
+pfad=(za)-[*2]->(v:Verhalten)-[vu:Kante]->(u:Ursache)-[*2]->(ze:Ziel) 
+WHERE (za.name= {PARAM1} OR {PARAM1} IN za.schutzgut OR {PARAM1} IN za.sektor) 
+AND (ze.name= {PARAM2} OR {PARAM2} IN ze.schutzgut OR {PARAM2} IN ze.sektor) 
+RETURN za.name AS source, ze.name AS target, count(ze) AS pathes 
+, avg(vu.value) AS vuvalue 
+, length(filter(x IN collect(vu.value) WHERE x = -1)) as negativ 
+, length(filter(x IN collect(vu.value) WHERE x = 0)) as neutral 
+, length(filter(x IN collect(vu.value) WHERE x = 1)) as positiv 
+ORDER BY za.name, ze.name;",
+"params" : { "PARAM1" : "Chemie", "PARAM2" : "Chemie"} 
+} 
+
+// Dynamisch gefilterte Matrix an Neo
+// Mission impossible: 38 sec, entweder im Browser ?? eval
+// oder die VU - Kante nocheinmal direkt speichern ?? eval
+// oder als Zipped Download
+// oder nur positiv 
+// oder garnicht
+

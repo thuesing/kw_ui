@@ -1,0 +1,2885 @@
+{
+    "results": [
+        {
+            "columns": [
+                "id(za)",
+                "za"
+            ],
+            "data": [
+                {
+                    "row": [
+                        70069,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Tourismus",
+                                "Verkehr",
+                                "Wasserwirtschaft",
+                                "Fischerei",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Abfälle im Meer - Begrenzung",
+                            "id": "Abfälle im Meer - Begrenzung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70075,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Abwasser-Schadstoffe - Reduktion",
+                            "id": "Abwasser-Schadstoffe - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70077,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Abwasserbelastung - Vermeidung",
+                            "id": "Abwasserbelastung - Vermeidung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70083,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Wasser",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Altlasten-Sanierung",
+                            "id": "Altlasten-Sanierung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70086,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft",
+                                "Haushalte"
+                            ],
+                            "name": "Aquatische Umwelt - Erhalt",
+                            "id": "Aquatische Umwelt - Erhalt"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70087,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Land- und Forstwirtschaft",
+                                "Fischerei",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Artenschutz",
+                            "id": "Artenschutz"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70091,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft"
+                            ],
+                            "name": "Atomausstieg",
+                            "id": "Atomausstieg"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70098,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Staat",
+                                "Tourismus",
+                                "Fischerei",
+                                "Wasserwirtschaft"
+                            ],
+                            "name": "Biodiversität - Erhalt",
+                            "id": "Biodiversität - Erhalt"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70099,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Land- und Forstwirtschaft"
+                            ],
+                            "name": "Biodiversitäts-Maßnahmen auf Agrarflächen - Erhöhung",
+                            "id": "Biodiversitäts-Maßnahmen auf Agrarflächen - Erhöhung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70101,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Wasserwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft",
+                                "Fischerei"
+                            ],
+                            "name": "Biologische Vielfalt der Meere - Erhalt",
+                            "id": "Biologische Vielfalt der Meere - Erhalt"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70106,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Staat",
+                                "Tourismus"
+                            ],
+                            "name": "Biotop-Netz - Ausbau",
+                            "id": "Biotop-Netz - Ausbau"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70109,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Wasserwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Boden - Reduktion der Stoffeinträge",
+                            "id": "Boden - Reduktion der Stoffeinträge"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70111,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Klima",
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Tourismus"
+                            ],
+                            "name": "Bodenerhalt",
+                            "id": "Bodenerhalt"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70114,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "CCS",
+                            "id": "CCS"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70119,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Verkehr"
+                            ],
+                            "name": "CO2-Emissionen Leichte Nutzfahrzeuge - Reduktion",
+                            "id": "CO2-Emissionen Leichte Nutzfahrzeuge - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70120,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Verkehr"
+                            ],
+                            "name": "CO2-Emissionen Pkw - Reduktion",
+                            "id": "CO2-Emissionen Pkw - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70123,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Gesundheit",
+                                "Land",
+                                "Luft"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe",
+                                "Staat"
+                            ],
+                            "name": "Chemikalien - Beherrschung Stoff-Risiken",
+                            "id": "Chemikalien - Beherrschung Stoff-Risiken"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70126,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft",
+                                "Haushalte"
+                            ],
+                            "name": "Chemikalien - Eliminierung prioritär gefährlicher Stoffe",
+                            "id": "Chemikalien - Eliminierung prioritär gefährlicher Stoffe"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70131,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Luft",
+                                "Gesundheit",
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe",
+                                "Staat"
+                            ],
+                            "name": "Chemikalien - Minimierung besonders besorgniserregender Stoffe",
+                            "id": "Chemikalien - Minimierung besonders besorgniserregender Stoffe"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70132,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Luft",
+                                "Gesundheit",
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe",
+                                "Staat"
+                            ],
+                            "name": "Chemikalien - Minimierung besonders kritischer Stoffe",
+                            "id": "Chemikalien - Minimierung besonders kritischer Stoffe"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70134,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Luft",
+                                "Gesundheit",
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Chemikalien - Reduktion Exposition in Erzeugnissen",
+                            "id": "Chemikalien - Reduktion Exposition in Erzeugnissen"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70135,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit",
+                                "Land",
+                                "Luft",
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Chemikalien - Reduktion negativer Wirkungen",
+                            "id": "Chemikalien - Reduktion negativer Wirkungen"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70137,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Gesundheit",
+                                "Land",
+                                "Luft"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Chemikalien - Sichere Verwendung von Stoffen",
+                            "id": "Chemikalien - Sichere Verwendung von Stoffen"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70142,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Land",
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe",
+                                "Staat"
+                            ],
+                            "name": "Chemikalien - gute Daten",
+                            "id": "Chemikalien - gute Daten"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70143,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Land",
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Chemikalien - hohes Schutzniveau",
+                            "id": "Chemikalien - hohes Schutzniveau"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70190,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Emissionsreduktion SO2, NOX, NH3, NMVOC",
+                            "id": "Emissionsreduktion SO2, NOX, NH3, NMVOC"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70191,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Energie als Ressource",
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Endenergie - Reduktion",
+                            "id": "Endenergie - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70192,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Energie als Ressource",
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Tourismus"
+                            ],
+                            "name": "Endenergieverbrauch Verkehr - Reduktion",
+                            "id": "Endenergieverbrauch Verkehr - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70196,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Industrie & Gewerbe",
+                                "Tourismus",
+                                "Wasserwirtschaft",
+                                "Verkehr",
+                                "Fischerei"
+                            ],
+                            "name": "Energie und Lärm im Meer - Begrenzung",
+                            "id": "Energie und Lärm im Meer - Begrenzung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70210,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Tourismus",
+                                "Fischerei",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Eutrophierung - Reduktion",
+                            "id": "Eutrophierung - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70212,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Industrie & Gewerbe",
+                                "Verkehr"
+                            ],
+                            "name": "F-Gas-Emissionen - Reduktion",
+                            "id": "F-Gas-Emissionen - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70219,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Haushalte",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Feinstaub & Ozon - Reduktion",
+                            "id": "Feinstaub & Ozon - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70220,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Tourismus",
+                                "Fischerei"
+                            ],
+                            "name": "Fischbestände - kommerziell befischte Bestände in gutem Zustand",
+                            "id": "Fischbestände - kommerziell befischte Bestände in gutem Zustand"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70224,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Verkehr"
+                            ],
+                            "name": "Flusseinträge in Meere - Reduktion",
+                            "id": "Flusseinträge in Meere - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70227,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Flächenverbrauch - Reduktion",
+                            "id": "Flächenverbrauch - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70237,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land"
+                            ],
+                            "sektor": [
+                                "Land- und Forstwirtschaft",
+                                "Staat"
+                            ],
+                            "name": "Genetische Ressourcen - Einrichtung Inventare",
+                            "id": "Genetische Ressourcen - Einrichtung Inventare"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70238,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Genetische Ressourcen - aktive Nutzung",
+                            "id": "Genetische Ressourcen - aktive Nutzung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70239,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Industrie & Gewerbe",
+                                "Staat",
+                                "Haushalte"
+                            ],
+                            "name": "Genetische Vielfalt - Erhalt",
+                            "id": "Genetische Vielfalt - Erhalt"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70284,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima",
+                                "Energie als Ressource",
+                                "Rohstoffe"
+                            ],
+                            "sektor": [
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Holzverwendung - Vermehrung",
+                            "id": "Holzverwendung - Vermehrung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70285,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Gesundheit",
+                                "Land",
+                                "Luft"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe",
+                                "Staat",
+                                "Haushalte"
+                            ],
+                            "name": "Hormonelle Stoffe - Belastungsreduktion",
+                            "id": "Hormonelle Stoffe - Belastungsreduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70291,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Gesundheit",
+                                "Land",
+                                "Luft"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Staat"
+                            ],
+                            "name": "Human-Analytik",
+                            "id": "Human-Analytik"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70292,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Tourismus",
+                                "Industrie & Gewerbe",
+                                "Fischerei",
+                                "Verkehr"
+                            ],
+                            "name": "Hydrographische Veränderung ohne nachteilige Auswirkungen",
+                            "id": "Hydrographische Veränderung ohne nachteilige Auswirkungen"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70294,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Immissionskonzentration BaP",
+                            "id": "Immissionskonzentration BaP"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70295,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Immissionskonzentration Benzol",
+                            "id": "Immissionskonzentration Benzol"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70296,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Rohstoffwirtschaft"
+                            ],
+                            "name": "Immissionskonzentration Blei",
+                            "id": "Immissionskonzentration Blei"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70297,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Rohstoffwirtschaft",
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Immissionskonzentration CO",
+                            "id": "Immissionskonzentration CO"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70298,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Immissionskonzentration NO2",
+                            "id": "Immissionskonzentration NO2"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70299,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Immissionskonzentration Ozon",
+                            "id": "Immissionskonzentration Ozon"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70300,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Immissionskonzentration PM10",
+                            "id": "Immissionskonzentration PM10"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70301,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Immissionskonzentration PM2,5",
+                            "id": "Immissionskonzentration PM2,5"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70302,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Immissionskonzentration SO2",
+                            "id": "Immissionskonzentration SO2"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70303,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Energiewirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Verkehr"
+                            ],
+                            "name": "Immissionskonzentrationen As, Cd, Ni",
+                            "id": "Immissionskonzentrationen As, Cd, Ni"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70308,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land"
+                            ],
+                            "sektor": [
+                                "Land- und Forstwirtschaft",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Invasive Arten - Bekämpfung",
+                            "id": "Invasive Arten - Bekämpfung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70311,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Energie als Ressource",
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "KWK-Ausbau",
+                            "id": "KWK-Ausbau"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70313,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Rohstoffe"
+                            ],
+                            "sektor": [
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Kaskadennutzung",
+                            "id": "Kaskadennutzung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70321,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Rohstoffe",
+                                "Klima",
+                                "Energie als Ressource"
+                            ],
+                            "sektor": [
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Konsumverhalten - nachhaltig",
+                            "id": "Konsumverhalten - nachhaltig"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70323,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft"
+                            ],
+                            "name": "Kraftstoff-THG - Reduktion",
+                            "id": "Kraftstoff-THG - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70326,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Rohstoffe"
+                            ],
+                            "sektor": [
+                                "Rohstoffwirtschaft"
+                            ],
+                            "name": "Kreislaufwirtschaft - Weiterentwicklung",
+                            "id": "Kreislaufwirtschaft - Weiterentwicklung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70327,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Land"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Kritischer Wert NOX",
+                            "id": "Kritischer Wert NOX"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70328,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Land"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Kritischer Wert SO2",
+                            "id": "Kritischer Wert SO2"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70332,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Staat",
+                                "Tourismus"
+                            ],
+                            "name": "Lebensräume - Erhalt",
+                            "id": "Lebensräume - Erhalt"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70346,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Luftqualität - ohne erhebliche negativen Auswirkungen",
+                            "id": "Luftqualität - ohne erhebliche negativen Auswirkungen"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70347,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Luftreinhaltung",
+                            "id": "Luftreinhaltung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70356,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Luftschadstoffe - Reduktion der industriellen Punktquellen",
+                            "id": "Luftschadstoffe - Reduktion der industriellen Punktquellen"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70364,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Lärm - quantitative Minderungsziele",
+                            "id": "Lärm - quantitative Minderungsziele"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70368,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Lärmexposition - Reduktion",
+                            "id": "Lärmexposition - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70373,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Lärmverschmutzung - Reduktion",
+                            "id": "Lärmverschmutzung - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70374,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Tourismus",
+                                "Fischerei",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Meere - Begrenzung nicht-einheimischer Arten",
+                            "id": "Meere - Begrenzung nicht-einheimischer Arten"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70375,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Land- und Forstwirtschaft",
+                                "Fischerei",
+                                "Wasserwirtschaft"
+                            ],
+                            "name": "Meere - Bekämpfung der Eutrophierung",
+                            "id": "Meere - Bekämpfung der Eutrophierung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70376,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Fischerei"
+                            ],
+                            "name": "Meere - Reduktion der Stoffeinträge aus Atmosphäre",
+                            "id": "Meere - Reduktion der Stoffeinträge aus Atmosphäre"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70377,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Fischerei",
+                                "Haushalte",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Meere in gutem Zustand",
+                            "id": "Meere in gutem Zustand"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70378,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Tourismus",
+                                "Fischerei"
+                            ],
+                            "name": "Meeres-Nahrungsnetzbestandteile - langfristiger Bestand",
+                            "id": "Meeres-Nahrungsnetzbestandteile - langfristiger Bestand"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70379,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Tourismus",
+                                "Industrie & Gewerbe",
+                                "Fischerei",
+                                "Verkehr"
+                            ],
+                            "name": "Meeresgrund in gutem Zustand",
+                            "id": "Meeresgrund in gutem Zustand"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70380,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft",
+                                "Fischerei"
+                            ],
+                            "name": "Meeresorganismen - Reduktion der Schadstoffkonzentration",
+                            "id": "Meeresorganismen - Reduktion der Schadstoffkonzentration"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70381,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Tourismus",
+                                "Fischerei"
+                            ],
+                            "name": "Meeresverschmutzung - Beseitigung und Schutz",
+                            "id": "Meeresverschmutzung - Beseitigung und Schutz"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70382,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Tourismus",
+                                "Industrie & Gewerbe",
+                                "Fischerei",
+                                "Verkehr"
+                            ],
+                            "name": "Meerwasser - keine Verschmutzungswirkung der Schadstoffkonzentration",
+                            "id": "Meerwasser - keine Verschmutzungswirkung der Schadstoffkonzentration"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70384,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Staat"
+                            ],
+                            "name": "Moore-Erhalt",
+                            "id": "Moore-Erhalt"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70393,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Land- und Forstwirtschaft"
+                            ],
+                            "name": "Natürliche CO2-Speicherkapazität - Erhöhung",
+                            "id": "Natürliche CO2-Speicherkapazität - Erhöhung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70394,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Tourismus"
+                            ],
+                            "name": "Nord- und Ostsee - Guter ökologischer Zustand",
+                            "id": "Nord- und Ostsee - Guter ökologischer Zustand"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70395,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Gesundheit",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Oberflächen- und Küstengewässer in gutem Zustand",
+                            "id": "Oberflächen- und Küstengewässer in gutem Zustand"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70397,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Oberflächengewässer - UQN chemischer Zustand",
+                            "id": "Oberflächengewässer - UQN chemischer Zustand"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70398,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft"
+                            ],
+                            "name": "Oberflächengewässer - UQN ökologischer Zustand",
+                            "id": "Oberflächengewässer - UQN ökologischer Zustand"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70401,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Luft"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Ozon - Beschränkung Exposition",
+                            "id": "Ozon - Beschränkung Exposition"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70403,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "POPs - Beendigung / Einschränkung",
+                            "id": "POPs - Beendigung / Einschränkung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70408,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Land- und Forstwirtschaft"
+                            ],
+                            "name": "Pflanzenschutzmittel - Reduktion",
+                            "id": "Pflanzenschutzmittel - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70412,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Energie als Ressource",
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Chemie",
+                                "Haushalte",
+                                "Land- und Forstwirtschaft",
+                                "Staat",
+                                "Verkehr"
+                            ],
+                            "name": "Primärenergieverbrauch - Reduktion",
+                            "id": "Primärenergieverbrauch - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70414,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Luft",
+                                "Gesundheit",
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Quecksilber - Reduktion der Exposition",
+                            "id": "Quecksilber - Reduktion der Exposition"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70419,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Rohstoffe"
+                            ],
+                            "sektor": [
+                                "Rohstoffwirtschaft",
+                                "Staat",
+                                "Haushalte"
+                            ],
+                            "name": "Recyclingquote - Verbesserung",
+                            "id": "Recyclingquote - Verbesserung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70420,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Tourismus",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft",
+                                "Fischerei"
+                            ],
+                            "name": "Reduzierung Schadstoffe im Meerwasser und Sedimenten",
+                            "id": "Reduzierung Schadstoffe im Meerwasser und Sedimenten"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70423,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Gesundheit",
+                                "Land",
+                                "Luft"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe",
+                                "Staat"
+                            ],
+                            "name": "Risikoquotient - Einhaltung",
+                            "id": "Risikoquotient - Einhaltung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70426,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Rohstoffe"
+                            ],
+                            "sektor": [
+                                "Industrie & Gewerbe",
+                                "Rohstoffwirtschaft"
+                            ],
+                            "name": "Rohstoffeffizienz - Steigerung",
+                            "id": "Rohstoffeffizienz - Steigerung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70429,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Rohstoffwirtschaft"
+                            ],
+                            "name": "Rohstoffentnahme - nachhaltig",
+                            "id": "Rohstoffentnahme - nachhaltig"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70431,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Rohstoffe"
+                            ],
+                            "sektor": [
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Rohstoffproduktivität - Verdoppelung",
+                            "id": "Rohstoffproduktivität - Verdoppelung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70149,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Luft",
+                                "Gesundheit",
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Chemikaliensicherheit global",
+                            "id": "Chemikaliensicherheit global"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70158,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima",
+                                "Energie als Ressource"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft",
+                                "Haushalte",
+                                "Staat",
+                                "Tourismus"
+                            ],
+                            "name": "EE-Ausbau Strom",
+                            "id": "EE-Ausbau Strom"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70159,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima",
+                                "Energie als Ressource"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Haushalte"
+                            ],
+                            "name": "EE-Ausbau Verkehr",
+                            "id": "EE-Ausbau Verkehr"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70160,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Energie als Ressource",
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Staat",
+                                "Land- und Forstwirtschaft"
+                            ],
+                            "name": "EE-Ausbau Wärme",
+                            "id": "EE-Ausbau Wärme"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70161,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima",
+                                "Energie als Ressource"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Verkehr",
+                                "Haushalte",
+                                "Staat",
+                                "Land- und Forstwirtschaft"
+                            ],
+                            "name": "EE-Ausbau allgemein",
+                            "id": "EE-Ausbau allgemein"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70167,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima",
+                                "Energie als Ressource",
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr"
+                            ],
+                            "name": "Elektrofahrzeuge - Steigerung der Anzahl",
+                            "id": "Elektrofahrzeuge - Steigerung der Anzahl"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70169,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Land",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Chemie",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Emissionsbegrenzung versauernder/eutrophierender Schadstoffe und Ozonvorläufer",
+                            "id": "Emissionsbegrenzung versauernder/eutrophierender Schadstoffe und Ozonvorläufer"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70171,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte"
+                            ],
+                            "name": "Emissionsbekämpfung",
+                            "id": "Emissionsbekämpfung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70247,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Wasserwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Gesundheitsschutz",
+                            "id": "Gesundheitsschutz"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70248,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Gesundheitsschutz Biozide",
+                            "id": "Gesundheitsschutz Biozide"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70249,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Industrie & Gewerbe",
+                                "Staat"
+                            ],
+                            "name": "Gesundheitsschutz Elektrosmog",
+                            "id": "Gesundheitsschutz Elektrosmog"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70250,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Wasserwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Gesundheitsschutz Kinder",
+                            "id": "Gesundheitsschutz Kinder"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70251,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Industrie & Gewerbe",
+                                "Staat"
+                            ],
+                            "name": "Gesundheitsschutz Kosmetik",
+                            "id": "Gesundheitsschutz Kosmetik"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70252,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Gesundheitsschutz Lärm",
+                            "id": "Gesundheitsschutz Lärm"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70253,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Gesundheitsschutz Pestizide",
+                            "id": "Gesundheitsschutz Pestizide"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70254,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit",
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Gesundheitsschutz Trinkwasser",
+                            "id": "Gesundheitsschutz Trinkwasser"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70255,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Gesundheit",
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat",
+                                "Tourismus"
+                            ],
+                            "name": "Gesundheitsschutz Trinkwasser-Badewasser",
+                            "id": "Gesundheitsschutz Trinkwasser-Badewasser"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70267,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Grundwasser Schwellenwerte - Einhaltung",
+                            "id": "Grundwasser Schwellenwerte - Einhaltung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70268,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Haushalte",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Grundwasser in gutem Zustand",
+                            "id": "Grundwasser in gutem Zustand"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70269,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Verkehr",
+                                "Tourismus",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft"
+                            ],
+                            "name": "Grundwasser-Schadstoffkonzentrationen - Trendumkehr",
+                            "id": "Grundwasser-Schadstoffkonzentrationen - Trendumkehr"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70433,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Rohstoffe"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Wasserwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Staat",
+                                "Haushalte"
+                            ],
+                            "name": "Rohstoffverbrauch und Wachstum entkoppeln",
+                            "id": "Rohstoffverbrauch und Wachstum entkoppeln"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70437,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Verkehr",
+                                "Haushalte",
+                                "Land- und Forstwirtschaft",
+                                "Chemie"
+                            ],
+                            "name": "Schadstoffeinleitung Grundwasser - Begrenzung",
+                            "id": "Schadstoffeinleitung Grundwasser - Begrenzung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70439,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima",
+                                "Energie als Ressource",
+                                "Luft",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Verkehr"
+                            ],
+                            "name": "Schienenverkehr & Binnenschifffahrt - Steigerung des Anteils",
+                            "id": "Schienenverkehr & Binnenschifffahrt - Steigerung des Anteils"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70443,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Wasser",
+                                "Gesundheit"
+                            ],
+                            "sektor": [
+                                "Rohstoffwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Staat"
+                            ],
+                            "name": "Schwermetalle - Einhaltung Belastungswerte",
+                            "id": "Schwermetalle - Einhaltung Belastungswerte"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70444,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Verkehr",
+                                "Industrie & Gewerbe",
+                                "Tourismus"
+                            ],
+                            "name": "Seen - Schutz der ökologischen Qualität",
+                            "id": "Seen - Schutz der ökologischen Qualität"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70458,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Energie als Ressource",
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Staat",
+                                "Haushalte"
+                            ],
+                            "name": "Stromverbrauch - Reduktion",
+                            "id": "Stromverbrauch - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70464,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Chemie",
+                                "Energiewirtschaft",
+                                "Haushalte",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Staat",
+                                "Verkehr"
+                            ],
+                            "name": "THG-Emissionsreduktion allgemein",
+                            "id": "THG-Emissionsreduktion allgemein"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70465,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Haushalte",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Tourismus"
+                            ],
+                            "name": "THG-Emissionsreduktion außerhalb ETS",
+                            "id": "THG-Emissionsreduktion außerhalb ETS"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70466,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Verkehr"
+                            ],
+                            "name": "THG-Emissionsreduktion im ETS",
+                            "id": "THG-Emissionsreduktion im ETS"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70467,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Chemie",
+                                "Haushalte",
+                                "Industrie & Gewerbe",
+                                "Land- und Forstwirtschaft",
+                                "Staat",
+                                "Verkehr",
+                                "Rohstoffwirtschaft"
+                            ],
+                            "name": "THG-Konzentration Atmosphäre - Stabilisierung",
+                            "id": "THG-Konzentration Atmosphäre - Stabilisierung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70471,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Staat",
+                                "Tourismus"
+                            ],
+                            "name": "Unzerschnittene Räume - Erhalt",
+                            "id": "Unzerschnittene Räume - Erhalt"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70473,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Wasserwirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Industrie & Gewerbe"
+                            ],
+                            "name": "Versauerung & Eutrophierung - Reduktion",
+                            "id": "Versauerung & Eutrophierung - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70475,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land"
+                            ],
+                            "sektor": [
+                                "Land- und Forstwirtschaft",
+                                "Staat"
+                            ],
+                            "name": "Wald-Zertifizierung - Erhöhung",
+                            "id": "Wald-Zertifizierung - Erhöhung"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70478,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Klima",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Verkehr",
+                                "Energiewirtschaft",
+                                "Land- und Forstwirtschaft",
+                                "Rohstoffwirtschaft",
+                                "Industrie & Gewerbe",
+                                "Staat",
+                                "Tourismus"
+                            ],
+                            "name": "Waldgebiete-Erhalt",
+                            "id": "Waldgebiete-Erhalt"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70482,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Wasser"
+                            ],
+                            "sektor": [
+                                "Wasserwirtschaft",
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Verkehr",
+                                "Haushalte",
+                                "Land- und Forstwirtschaft",
+                                "Chemie",
+                                "Rohstoffwirtschaft",
+                                "Staat",
+                                "Tourismus"
+                            ],
+                            "name": "Wassernutzung - nachhaltig",
+                            "id": "Wassernutzung - nachhaltig"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70489,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Energie als Ressource",
+                                "Klima"
+                            ],
+                            "sektor": [
+                                "Energiewirtschaft",
+                                "Industrie & Gewerbe",
+                                "Haushalte",
+                                "Staat"
+                            ],
+                            "name": "Wärmebedarf - Reduktion",
+                            "id": "Wärmebedarf - Reduktion"
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        70494,
+                        {
+                            "kategorie": [
+                                "Kategorie:Ziele"
+                            ],
+                            "schutzgut": [
+                                "Land",
+                                "Wasser",
+                                "Biodiversität"
+                            ],
+                            "sektor": [
+                                "Land- und Forstwirtschaft"
+                            ],
+                            "name": "Ökolandbau - Ausweitung",
+                            "id": "Ökolandbau - Ausweitung"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "errors": []
+}

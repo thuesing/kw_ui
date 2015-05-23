@@ -1,0 +1,14 @@
+{
+"query" : "
+MATCH (za:Ziel), (ze:Ziel),
+pfad=(za)-[*2]->(v:Verhalten)-[vu:Kante]->(u:Ursache)-[*2]->(ze) 
+RETURN id(za) AS source, id(ze) AS target, count(ze) AS pathes 
+, avg(vu.value) AS vuvalue 
+, length(filter(x IN collect(vu.value) WHERE x = -1)) as negativ 
+, length(filter(x IN collect(vu.value) WHERE x = 0)) as neutral 
+, length(filter(x IN collect(vu.value) WHERE x = 1)) as positiv 
+;" 
+} 
+
+
+
